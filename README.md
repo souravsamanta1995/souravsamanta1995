@@ -92,15 +92,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=souravsamanta1995&show_icons=true&theme=transparent" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=souravsamanta1995&theme=transparent" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 📧 souravsamantapappu@gmail.com  
