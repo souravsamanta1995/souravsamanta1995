@@ -13,7 +13,7 @@
 
 ---
 
-## 🧊 About Me (Glass Style)
+## 🧊 About Me
 
 ✨ 5+ years experience in full-stack development  
 ✨ Specialized in Laravel & Node.js  
@@ -95,8 +95,8 @@
 ## 📊 GitHub Stats (Transparent Look)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=souravsamanta1995&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=souravsamanta1995&theme=transparent" />
 </p>
 
 ---
