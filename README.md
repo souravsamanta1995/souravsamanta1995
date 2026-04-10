@@ -92,7 +92,7 @@
 
 ---
 
-## 📊 GitHub Stats (Transparent Look)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=souravsamanta1995&show_icons=true&theme=transparent" />
